@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokiverse-devil&label=Profile%20views&color=0e75b6&style=flat" alt="lokiverse-devil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokiverse-devil" alt="lokiverse-devil" /></a> </p>
 
 - 🔭 I’m currently working on **My Portofolio**
 
@@ -15,7 +14,12 @@
 
 - 📫 How to reach me **ompandey@2341@gmail.com**
 
-- ⚡ Fun fact **From ABCD to DBMS From oops! to OOPs From π to .py From Essay To DSA From dy/dx to UI/UX From Arrey! to Array We all have come so far!!💯**
+- ⚡ Fun fact **From ABCD to DBMS From oops! to OOPs
+  -  From π to .py
+  -  From Essay To DSA
+  -  From dy/dx to UI/UX
+  -  From Arrey! to Array
+  -  We all have come so far!!💯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokiverse-devil&show_icons=true&locale=en" alt="lokiverse-devil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokiverse-devil&" alt="lokiverse-devil" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokiverse-devil" alt="lokiverse-devil" /></a> </p>
