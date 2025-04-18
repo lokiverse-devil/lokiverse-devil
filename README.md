@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Coding Languages<br><br>👀 I’m looking for help with Cloud Projects and AI&ML Projects<br><br>💫Ask me about SQL,C,Python<br><br>📫How to reach me ompandey@2341@gmail.com<br><br>⚡ Fun fact<br><br>From ABCD to DBMS<br>From oops! to OOPs<br>From π to .py<br>From Essay To DSA<br>From dy/dx to UI/UX<br>From Arrey! to Array<br>We all have come so far!!💯
+<br>🌱 I’m currently learning Coding Languages<br><br>👀 I’m looking for help with Cloud Projects and AI&ML Projects<br><br>💫Ask me about SQL,C,Python<br><br>📫How to reach me ompandey2341@gmail.com<br><br>⚡ Fun fact<br><br>From ABCD to DBMS<br>From oops! to OOPs<br>From π to .py<br>From Essay To DSA<br>From dy/dx to UI/UX<br>From Arrey! to Array<br>We all have come so far!!💯
 
 
 ## 🌐 Socials:
