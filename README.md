@@ -14,12 +14,14 @@
 
 - 📫 How to reach me **ompandey@2341@gmail.com**
 
-- ⚡ Fun fact **From ABCD to DBMS From oops! to OOPs
-  -  From π to .py
-  -  From Essay To DSA
-  -  From dy/dx to UI/UX
-  -  From Arrey! to Array
-  -  We all have come so far!!💯**
+- ⚡ Fun fact **
+  - From ABCD to DBMS
+  - From oops! to OOPs
+  - From π to .py
+  - From Essay To DSA
+  - From dy/dx to UI/UX
+  - From Arrey! to Array
+  - We all have come so far!!💯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
